@@ -1,0 +1,5 @@
+v = 1             //protocol version
+t = pageview      //hit type i.e pageview, screenview, event
+tid = UA-XXXXX-Y  //measurement id, all data is collected by this id
+cid = 555         //used to identify individual device or browser instance
+dp = %2Fhome      //document path
